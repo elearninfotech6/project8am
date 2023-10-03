@@ -1,0 +1,90 @@
+Python Full Stack
+===================
+Python (core py+adv py): other, freshers-- 40 days
+---------------------------------
+Programming language like java, c
+coding part in our applications
+open source
+no coding know or prog lang
+basics to adv level
+core python: basic python
+adv python: oops,modules, reg exp, multi threading, json, API etc
+data science: Numpy, pandas, matplotlib, web scraping
+
+DJango framework:
+-------------------------
+Web based framework, develop web applications.
+Python based framework
+prerequites py
+web apps
+
+MySQL/SQLITE3:
+------------------------
+DATABaSES
+Table(rows and cols)
+Installation, Create db, CRUD operations
+DB connections
+
+Github/Gitbash:
+---------------------
+
+
+UI/Frontend technologies:
+----------------------------------
+HTML: layout of apps
+CSS:  styles, colors, formats etc
+Javascript: functionality, validations
+React JS :  js library, single page app, load time,
+Bootstrap: responsive apps, device friendly apps
+JQuery : animations  slider
+
+5 months
+py+django+mysql: backend dev, py dev, dj dev, web dev
+pyfullstack(py+dj+mysql+ui): backend dev, py dev, dj dev, web dev, full stack deve, frontend dev, web                                                      designer, ui design/dev
+
+
+web applications: youtube, fb
+
+frontend: end user (UI/Frontend techs)
+backend: logics (py+dj+db)
+
+fullstack developer: f+b
+
+Other
+-----------
+1hr(45+15)
+class rec video
+material
+task
+group
+
+10 projects:
+---------------
+py (3 projects)
+py+dj 2 projects
+ui 3 projects
+react js 2 projects
+
+2-mock interviews
+-------------------------
+personal
+programming test
+technical round
+
+Resume preparation
+Interview questions doc
+programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
